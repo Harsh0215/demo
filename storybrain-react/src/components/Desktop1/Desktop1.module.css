@@ -1,0 +1,914 @@
+.component1.component1 {
+  left: 67px;
+  top: 31px;
+}
+.logoTop.logoTop {
+  background-image:/* webpackIgnore: true */ url('assets/logoTop3.jpg');
+}
+.vector1.vector1 {
+  -webkit-mask-image:/* webpackIgnore: true */ url('assets/mask2.svg');
+  mask-image:/* webpackIgnore: true */ url('assets/mask2.svg');
+}
+.root {
+  position: relative;
+  width: 1440px;
+  height: 1024px;
+  align-items: flex-start;
+  background-color: #00071b;
+}
+.forYou {
+  color: #fff;
+  font-size: 18px;
+  font-family: Cascadia Mono, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 277px;
+  top: 56px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.songs {
+  color: #fff;
+  font-size: 18px;
+  font-weight: bold;
+  font-family: Cascadia Mono, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 426px;
+  top: 56px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.tVShows {
+  color: #fff;
+  font-size: 18px;
+  font-family: Cascadia Mono, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 554px;
+  top: 56px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.newsPopular {
+  color: #fff;
+  font-size: 18px;
+  font-family: Cascadia Mono, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 714px;
+  top: 56px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.myList {
+  color: #fff;
+  font-size: 18px;
+  font-family: Cascadia Mono, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 937px;
+  top: 57px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.mdiUserCircle {
+  position: absolute;
+  left: 1175px;
+  top: 49px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.vector {
+  position: absolute;
+  left: 91.9444%;
+  right: 5.5556%;
+  top: 4.7852%;
+  bottom: 91.6992%;
+  overflow: visible;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.icOutlineSearch {
+  position: absolute;
+  left: 1249px;
+  top: 49px;
+  width: 36px;
+  height: 36px;
+}
+.icon2 {
+  width: 100%;
+  height: 100%;
+}
+.img {
+  position: absolute;
+  left: 465.4px;
+  top: 203px;
+  width: 872.6px;
+  height: 654px;
+  align-items: flex-start;
+}
+.sultaan {
+  position: absolute;
+  left: 0px;
+  top: 67px;
+  width: 523.2px;
+  height: 577.6px;
+  background-image:/* webpackIgnore: true */ url('assets/sultaan2.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  -webkit-mask-image:/* webpackIgnore: true */ url('assets/sultaan.svg');
+  mask-image:/* webpackIgnore: true */ url('assets/sultaan.svg');
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+  -webkit-mask-position: -0.00000610351571594947px -1.600006103515625px;
+  mask-position: -0.00000610351571594947px -1.600006103515625px;
+  -webkit-mask-size: 523.2000122070312px 523.2000122070312px;
+  mask-size: 523.2000122070312px 523.2000122070312px;
+}
+.textOnImg5 {
+  position: absolute;
+  left: 0px;
+  top: 386.2px;
+  width: 523.2px;
+  height: 202.4px;
+  align-items: flex-start;
+  -webkit-mask-image:/* webpackIgnore: true */ url('assets/sultaan.svg');
+  mask-image:/* webpackIgnore: true */ url('assets/sultaan.svg');
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+  -webkit-mask-position: -0.00000610351571594947px -320.8000183105469px;
+  mask-position: -0.00000610351571594947px -320.8000183105469px;
+  -webkit-mask-size: 523.2000122070312px 523.2000122070312px;
+  mask-size: 523.2000122070312px 523.2000122070312px;
+}
+.rectangle3 {
+  position: absolute;
+  left: 0px;
+  top: 49.6px;
+  width: 523.2px;
+  height: 152.8px;
+  border-radius: 32.8px;
+  background-color: #0009;
+  backdrop-filter: blur(15.600000381469727px);
+}
+.sultaan2 {
+  color: #fff;
+  font-size: 25.6px;
+  font-family: Coda, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 34.4px;
+  top: 67.2px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.ellipse1 {
+  position: absolute;
+  left: 407.2px;
+  top: 0px;
+  width: 78.4px;
+  height: 78.4px;
+  overflow: visible;
+}
+.icon3 {
+  width: 100%;
+  height: 100%;
+}
+.materialSymbolsPlayArrowRounde {
+  position: absolute;
+  left: 417.6px;
+  top: 8.8px;
+  width: 60px;
+  height: 60px;
+}
+.icon4 {
+  width: 100%;
+  height: 100%;
+}
+.sultaanIsAPunjabiSingerRapperA {
+  position: absolute;
+  left: 36.8px;
+  top: 110.4px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.textBlock {
+  color: #c0bbbb;
+  font-size: 11.2px;
+  font-family: Coda, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock2 {
+  margin-top: 0;
+  color: #c0bbbb;
+  font-size: 11.2px;
+  font-family: Coda, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock3 {
+  margin-top: 0;
+  color: #c0bbbb;
+  font-size: 11.2px;
+  font-family: Coda, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.jazzyB {
+  position: absolute;
+  left: 49.65px;
+  top: 49.05px;
+  width: 557.6px;
+  height: 555.9px;
+  background-image:/* webpackIgnore: true */ url('assets/jazzyB2.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  -webkit-mask-image:/* webpackIgnore: true */ url('assets/jazzyB.svg');
+  mask-image:/* webpackIgnore: true */ url('assets/jazzyB.svg');
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+  -webkit-mask-position: 0px 0px;
+  mask-position: 0px 0px;
+  -webkit-mask-size: 555.9000244140625px 555.9000244140625px;
+  mask-size: 555.9000244140625px 555.9000244140625px;
+}
+.textOnImg4 {
+  position: absolute;
+  left: 49.65px;
+  top: 389.9px;
+  width: 555.9px;
+  height: 215.05px;
+  align-items: flex-start;
+  -webkit-mask-image:/* webpackIgnore: true */ url('assets/jazzyB.svg');
+  mask-image:/* webpackIgnore: true */ url('assets/jazzyB.svg');
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+  -webkit-mask-position: -0.000011444091796875px -340.8500061035156px;
+  mask-position: -0.000011444091796875px -340.8500061035156px;
+  -webkit-mask-size: 555.9000244140625px 555.9000244140625px;
+  mask-size: 555.9000244140625px 555.9000244140625px;
+}
+.rectangle32 {
+  position: absolute;
+  left: 0px;
+  top: 52.7px;
+  width: 555.9px;
+  height: 162.35px;
+  border-radius: 34.85px;
+  background-color: #0009;
+  backdrop-filter: blur(16.575000762939453px);
+}
+.jazzyB2 {
+  color: #fff;
+  font-size: 27.2px;
+  font-family: Coda, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 36.55px;
+  top: 71.4px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.ellipse12 {
+  position: absolute;
+  left: 432.65px;
+  top: 0px;
+  width: 83.3px;
+  height: 83.3px;
+  overflow: visible;
+}
+.icon5 {
+  width: 100%;
+  height: 100%;
+}
+.materialSymbolsPlayArrowRounde2 {
+  position: absolute;
+  left: 443.7px;
+  top: 9.35px;
+  width: 63.75px;
+  height: 63.75px;
+}
+.icon6 {
+  width: 100%;
+  height: 100%;
+}
+.jazzyBWasBornInAJatFamilyOfJal {
+  position: absolute;
+  left: 39.1px;
+  top: 117.3px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.labelWrapper {
+  font-size: 11.9px;
+  font-family: Coda, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  flex-shrink: 1;
+}
+.label {
+  color: #c0bbbb;
+  font-size: 11.9px;
+  font-family: Coda, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label2 {
+  color: #c0bbbb;
+  font-size: 11.9px;
+  font-family: Coda, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-decoration: underline;
+}
+.label3 {
+  color: #c0bbbb;
+  font-size: 11.9px;
+  font-family: Coda, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label4 {
+  color: #c0bbbb;
+  font-size: 11.9px;
+  font-family: Coda, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-decoration: underline;
+}
+.label5 {
+  color: #c0bbbb;
+  font-size: 11.9px;
+  font-family: Coda, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label6 {
+  color: #c0bbbb;
+  font-size: 11.9px;
+  font-family: Coda, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-decoration: underline;
+}
+.label7 {
+  color: #c0bbbb;
+  font-size: 11.9px;
+  font-family: Coda, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock4 {
+  margin-top: 0;
+}
+.labelWrapper2 {
+  font-size: 11.9px;
+  font-family: Coda, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  flex-shrink: 1;
+}
+.label8 {
+  color: #c0bbbb;
+  font-size: 11.9px;
+  font-family: Coda, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label9 {
+  color: #c0bbbb;
+  font-size: 11.9px;
+  font-family: Coda, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-decoration: underline;
+}
+.label10 {
+  color: #c0bbbb;
+  font-size: 11.9px;
+  font-family: Coda, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label11 {
+  color: #c0bbbb;
+  font-size: 11.9px;
+  font-family: Coda, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-decoration: underline;
+}
+.label12 {
+  color: #c0bbbb;
+  font-size: 11.9px;
+  font-family: Coda, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock5 {
+  margin-top: 0;
+  color: #c0bbbb;
+  font-size: 11.9px;
+  font-family: Coda, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.karan {
+  position: absolute;
+  left: 96.7px;
+  top: 32.7px;
+  width: 594px;
+  height: 671.4px;
+  background-image:/* webpackIgnore: true */ url('assets/karan2.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  -webkit-mask-image:/* webpackIgnore: true */ url('assets/karan.svg');
+  mask-image:/* webpackIgnore: true */ url('assets/karan.svg');
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+  -webkit-mask-position: 3.6000123023986816px 0.00001220703143189894px;
+  mask-position: 3.6000123023986816px 0.00001220703143189894px;
+  -webkit-mask-size: 588.5999755859375px 588.5999755859375px;
+  mask-size: 588.5999755859375px 588.5999755859375px;
+}
+.textOnImg3 {
+  position: absolute;
+  left: 100.3px;
+  top: 393.6px;
+  width: 588.6px;
+  height: 227.7px;
+  align-items: flex-start;
+  -webkit-mask-image:/* webpackIgnore: true */ url('assets/karan.svg');
+  mask-image:/* webpackIgnore: true */ url('assets/karan.svg');
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+  -webkit-mask-position: 0.0000152587890625px -360.8999938964844px;
+  mask-position: 0.0000152587890625px -360.8999938964844px;
+  -webkit-mask-size: 588.5999755859375px 588.5999755859375px;
+  mask-size: 588.5999755859375px 588.5999755859375px;
+}
+.rectangle33 {
+  position: absolute;
+  left: 0px;
+  top: 55.8px;
+  width: 588.6px;
+  height: 171.9px;
+  border-radius: 36.9px;
+  background-color: #0009;
+  backdrop-filter: blur(17.549999237060547px);
+}
+.karanAujla {
+  color: #fff;
+  font-size: 28.8px;
+  font-family: Coda, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 38.7px;
+  top: 75.6px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.ellipse13 {
+  position: absolute;
+  left: 458.1px;
+  top: 0px;
+  width: 88.2px;
+  height: 88.2px;
+  overflow: visible;
+}
+.icon7 {
+  width: 100%;
+  height: 100%;
+}
+.materialSymbolsPlayArrowRounde3 {
+  position: absolute;
+  left: 469.8px;
+  top: 9.9px;
+  width: 67.5px;
+  height: 67.5px;
+}
+.icon8 {
+  width: 100%;
+  height: 100%;
+}
+.jaskaranSinghKaranAujlaBorn18J {
+  position: absolute;
+  left: 41.4px;
+  top: 124.2px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.labelWrapper3 {
+  font-size: 12.6px;
+  font-family: Coda, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  flex-shrink: 1;
+}
+.label13 {
+  color: #c0bbbb;
+  font-size: 12.6px;
+  font-family: Coda, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label14 {
+  color: #c0bbbb;
+  font-size: 12.6px;
+  font-family: Coda, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-decoration: underline;
+}
+.label15 {
+  color: #c0bbbb;
+  font-size: 12.6px;
+  font-family: Coda, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock6 {
+  margin-top: 0;
+  color: #c0bbbb;
+  font-size: 12.6px;
+  font-family: Coda, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock7 {
+  margin-top: 0;
+}
+.labelWrapper4 {
+  font-size: 12.6px;
+  font-family: Coda, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  flex-shrink: 1;
+}
+.label16 {
+  color: #c0bbbb;
+  font-size: 12.6px;
+  font-family: Coda, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-decoration: underline;
+}
+.label17 {
+  color: #c0bbbb;
+  font-size: 12.6px;
+  font-family: Coda, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label18 {
+  color: #c0bbbb;
+  font-size: 12.6px;
+  font-family: Coda, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-decoration: underline;
+}
+.label19 {
+  color: #c0bbbb;
+  font-size: 12.6px;
+  font-family: Coda, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.diljit {
+  position: absolute;
+  left: 158.95px;
+  top: 23.95px;
+  width: 621.3px;
+  height: 776.15px;
+  background-image:/* webpackIgnore: true */ url('assets/diljit2.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  -webkit-mask-image:/* webpackIgnore: true */ url('assets/diljit.svg');
+  mask-image:/* webpackIgnore: true */ url('assets/diljit.svg');
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+  -webkit-mask-position: 0.00000610351571594947px -7.599993705749512px;
+  mask-position: 0.00000610351571594947px -7.599993705749512px;
+  -webkit-mask-size: 621.2999877929688px 621.2999877929688px;
+  mask-size: 621.2999877929688px 621.2999877929688px;
+}
+.textOnImg2 {
+  position: absolute;
+  left: 158.95px;
+  top: 397.3px;
+  width: 621.3px;
+  height: 240.35px;
+  align-items: flex-start;
+  -webkit-mask-image:/* webpackIgnore: true */ url('assets/diljit.svg');
+  mask-image:/* webpackIgnore: true */ url('assets/diljit.svg');
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+  -webkit-mask-position: 0px -380.9499816894531px;
+  mask-position: 0px -380.9499816894531px;
+  -webkit-mask-size: 621.2999877929688px 621.2999877929688px;
+  mask-size: 621.2999877929688px 621.2999877929688px;
+}
+.rectangle34 {
+  position: absolute;
+  left: 0px;
+  top: 58.9px;
+  width: 621.3px;
+  height: 181.45px;
+  border-radius: 38.95px;
+  background-color: #0009;
+  backdrop-filter: blur(18.524999618530273px);
+}
+.diljitDosanjh {
+  color: #fff;
+  font-size: 30.4px;
+  font-family: Coda, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 40.85px;
+  top: 79.8px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.ellipse14 {
+  position: absolute;
+  left: 483.55px;
+  top: 0px;
+  width: 93.1px;
+  height: 93.1px;
+  overflow: visible;
+}
+.icon9 {
+  width: 100%;
+  height: 100%;
+}
+.materialSymbolsPlayArrowRounde4 {
+  position: absolute;
+  left: 495.9px;
+  top: 10.45px;
+  width: 71.25px;
+  height: 71.25px;
+}
+.icon10 {
+  width: 100%;
+  height: 100%;
+}
+.daljitSinghDosanjhKnownProfess {
+  position: absolute;
+  left: 43.7px;
+  top: 131.1px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.textBlock8 {
+  color: #c0bbbb;
+  font-size: 13.3px;
+  font-family: Coda, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock9 {
+  margin-top: 0;
+  color: #c0bbbb;
+  font-size: 13.3px;
+  font-family: Coda, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock10 {
+  margin-top: 0;
+  color: #c0bbbb;
+  font-size: 13.3px;
+  font-family: Coda, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.sidhu {
+  position: absolute;
+  left: 218.6px;
+  top: 0;
+  width: 654px;
+  height: 754px;
+  background-image:/* webpackIgnore: true */ url('assets/sidhu2.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  -webkit-mask-image:/* webpackIgnore: true */ url('assets/sidhu.svg');
+  mask-image:/* webpackIgnore: true */ url('assets/sidhu.svg');
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+  -webkit-mask-position: 0px 0px;
+  mask-position: 0px 0px;
+  -webkit-mask-size: 654px 654px;
+  mask-size: 654px 654px;
+}
+.textOnImg1 {
+  position: absolute;
+  left: 218.6px;
+  top: 463px;
+  width: 654px;
+  height: 191px;
+  align-items: flex-start;
+  border-radius: 41px;
+  background-color: #0009;
+  backdrop-filter: blur(19.5px);
+  -webkit-mask-image:/* webpackIgnore: true */ url('assets/sidhu.svg');
+  mask-image:/* webpackIgnore: true */ url('assets/sidhu.svg');
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+  -webkit-mask-position: 0px -463px;
+  mask-position: 0px -463px;
+  -webkit-mask-size: 654px 654px;
+  mask-size: 654px 654px;
+}
+.sidhuMoosewala {
+  color: #fff;
+  font-size: 32px;
+  font-family: Coda, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 43px;
+  top: 22px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.shubhdeepSinghSidhu11June19932 {
+  position: absolute;
+  left: 46px;
+  top: 76px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.textBlock11 {
+  color: #c0bbbb;
+  font-size: 14px;
+  font-family: Coda, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock12 {
+  margin-top: 0;
+  color: #c0bbbb;
+  font-size: 14px;
+  font-family: Coda, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock13 {
+  margin-top: 0;
+  color: #c0bbbb;
+  font-size: 14px;
+  font-family: Coda, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.play {
+  position: absolute;
+  left: 727.6px;
+  top: 401px;
+  width: 98px;
+  height: 98px;
+  overflow: visible;
+  -webkit-mask-image:/* webpackIgnore: true */ url('assets/sidhu.svg');
+  mask-image:/* webpackIgnore: true */ url('assets/sidhu.svg');
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+  -webkit-mask-position: -509px -401px;
+  mask-position: -509px -401px;
+  -webkit-mask-size: 654px 654px;
+  mask-size: 654px 654px;
+}
+.icon11 {
+  width: 100%;
+  height: 100%;
+}
+.logoTop2 {
+  position: absolute;
+  left: 67px;
+  top: 31px;
+  width: 121px;
+  height: 50px;
+  background-image:/* webpackIgnore: true */ url('assets/logoTop.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.banner {
+  position: absolute;
+  left: 55px;
+  top: 179px;
+  width: 349px;
+  height: 750px;
+  align-items: flex-start;
+}
+._1 {
+  opacity: 0.76;
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 349px;
+  height: 375px;
+  align-items: flex-start;
+}
+._12 {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 349px;
+  height: 375px;
+  border-radius: 40px;
+  background-image:/* webpackIgnore: true */ url('assets/_1.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  filter: blur(75px);
+}
+._3 {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 349px;
+  height: 375px;
+  border-radius: 40px;
+  background-image:/* webpackIgnore: true */ url('assets/_3.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  filter: blur(75px);
+}
+._11 {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 349px;
+  height: 375px;
+  border-radius: 40px;
+  background-image:/* webpackIgnore: true */ url('assets/_11.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+._2 {
+  position: absolute;
+  left: 0;
+  top: 375px;
+  width: 349px;
+  height: 375px;
+  align-items: flex-start;
+}
+._22 {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 349px;
+  height: 375px;
+  border-radius: 40px;
+  background-image:/* webpackIgnore: true */ url('assets/_2.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  filter: blur(75px);
+}
+._5 {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 349px;
+  height: 375px;
+  border-radius: 40px;
+  background-image:/* webpackIgnore: true */ url('assets/_5.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  filter: blur(75px);
+}
+._4 {
+  opacity: 0.76;
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 349px;
+  height: 375px;
+  border-radius: 40px;
+  background-image:/* webpackIgnore: true */ url('assets/_4.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.line1 {
+  transform-origin: bottom left;
+  position: absolute;
+  left: 439px;
+  top: 84px;
+  width: 27px;
+  max-width: 100%;
+  height: 0;
+  max-height: 100%;
+  outline: solid 2px #cfa00b;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}

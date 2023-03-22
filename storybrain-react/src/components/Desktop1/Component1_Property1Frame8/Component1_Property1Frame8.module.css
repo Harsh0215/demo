@@ -1,0 +1,47 @@
+.root {
+  position: absolute;
+  left: 20px;
+  top: 20px;
+  width: 121px;
+  height: 50px;
+  align-items: flex-start;
+}
+.logoTop {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 121px;
+  height: 50px;
+  background-image:/* webpackIgnore: true */ url('assets/logoTop2.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.mask {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 121px;
+  height: 50px;
+  align-items: flex-start;
+}
+.vector1 {
+  position: absolute;
+  left: -59px;
+  top: -23.599px;
+  width: 174px;
+  height: 166.2008px;
+  overflow: visible;
+  -webkit-mask-image:/* webpackIgnore: true */ url('assets/mask.svg');
+  mask-image:/* webpackIgnore: true */ url('assets/mask.svg');
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+  -webkit-mask-position: 59px 23.598998268867327px;
+  mask-position: 59px 23.598998268867327px;
+  -webkit-mask-size: 121px 50px;
+  mask-size: 121px 50px;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
